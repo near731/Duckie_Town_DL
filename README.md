@@ -50,6 +50,11 @@ Végül a tesztelés:
 ```
 python3.8 CONV_test.py 
 ```
+Az adatokat ide nem tudtam a túl nagy mérete miatt feltölteni, ezért Google Drive-ra töltöttem fel:
+
+Link: https://drive.google.com/drive/folders/17UHHcnYKoU3VDA1TEb9__AykRrXvCtXq
+
+Ezt a .zip file-t a Duckie_Town_DL mappába kell kicsomagolni.
 
 ## Q model használata
 
@@ -68,4 +73,4 @@ python3.8 Q_test.py
 
 # Egyéb
 
-Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a feladat nagyon nehéznek bizonyult számomra, valamint a tanításra és a tesztelésre már nagyon kevés idő maradt. 
+Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a feladat nagyon nehéznek bizonyult számomra, valamint a tanításra és a tesztelésre már nagyon kevés időm maradt. 
