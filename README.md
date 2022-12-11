@@ -32,6 +32,8 @@ https://github.com/near731/Duckie_Town_DL.git
 cd Duckie_Town_DL
 ```
 
+## CONV model használata
+
 Adatok generálása manuális szimulációval:
 
 ```
@@ -48,6 +50,20 @@ Végül a tesztelés:
 ```
 python3.8 CONV_test.py 
 ```
+
+## Q model használata
+
+Tanítás:
+
+```
+python3.8 Q_train.py 
+```
+Tesztelés:
+
+```
+python3.8 Q_test.py 
+```
+
 
 
 # Egyéb
