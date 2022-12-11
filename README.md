@@ -16,3 +16,16 @@ Tag(ok) neve:
 - OS: Ubuntu 22.04
 - Python: 3.8.15
 - Tensorflow: 2.11.0
+
+# Használati útmutató:
+
+Először klónozzuk a gym-duckietown repot!
+
+```
+git clone https://github.com/duckietown/gym-duckietown.git
+cd gym-duckietown
+```
+
+# Egyéb
+
+Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a tanításra már nagyon kevés idő maradt. 
