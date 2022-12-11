@@ -9,10 +9,10 @@
 Név: DLuckies
 
 Tag(ok) neve:
--Németh Áron Imre (D1J5ZG)
+- Németh Áron Imre (D1J5ZG)
 
 ## Felhasznált szoftverek verziószámai
 
--OS: Ubuntu 22.04
--Python: 3.8.15
--Tensorflow: 2.11.0
+- OS: Ubuntu 22.04
+- Python: 3.8.15
+- Tensorflow: 2.11.0
