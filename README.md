@@ -33,4 +33,4 @@ cd Duckie_Town_DL
 ```
 # Egyéb
 
-Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a tanításra már nagyon kevés idő maradt. 
+Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a feladat nagyon nehéznek bizonyult számomra, valamint a tanításra és a tesztekésre már nagyon kevés idő maradt. 
