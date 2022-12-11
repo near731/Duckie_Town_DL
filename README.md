@@ -31,6 +31,25 @@ Majd pedig ezt a repot.
 https://github.com/near731/Duckie_Town_DL.git
 cd Duckie_Town_DL
 ```
+
+Adatok generálása manuális szimulációval:
+
+```
+python3.8 CONV_imitation.py
+```
+
+Tanítás:
+
+```
+python3.8 CONV_train.py 
+```
+Végül a tesztelés:
+
+```
+python3.8 CONV_test.py 
+```
+
+
 # Egyéb
 
-Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a feladat nagyon nehéznek bizonyult számomra, valamint a tanításra és a tesztekésre már nagyon kevés idő maradt. 
+Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a feladat nagyon nehéznek bizonyult számomra, valamint a tanításra és a tesztelésre már nagyon kevés idő maradt. 
