@@ -1,6 +1,6 @@
 # Deep Learning a gyakorlatban Python és Lua alapon (BMEVITMAV45)
 
-## Nagy Házi feladat: Önvezető autózás Duckietown környezetben
+# Nagy Házi feladat: Önvezető autózás Duckietown környezetben
 
 # Adatok:
 
