@@ -25,7 +25,12 @@ Először klónozzuk a gym-duckietown repot!
 git clone https://github.com/duckietown/gym-duckietown.git
 cd gym-duckietown
 ```
+Majd pedig ezt a repot.
 
+```
+https://github.com/near731/Duckie_Town_DL.git
+cd Duckie_Town_DL
+```
 # Egyéb
 
 Sajnos a Linux szükségessége miatt 2 csapattárs is kihátrált a projekt mögül, a kezdeti sikertelenségek után visszaléptek a feladattól. Végül egyedül megpróbáltam, de a tanításra már nagyon kevés idő maradt. 
