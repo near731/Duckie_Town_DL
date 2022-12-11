@@ -1,17 +1,17 @@
-## Deep Learning a gyakorlatban Python és Lua alapon (BMEVITMAV45)
+# Deep Learning a gyakorlatban Python és Lua alapon (BMEVITMAV45)
 
-# Nagy Házi feladat: Önvezető autózás Duckietown környezetben
+## Nagy Házi feladat: Önvezető autózás Duckietown környezetben
 
-## Adatok:
+# Adatok:
 
-# "Csapat" adatok:
+## "Csapat" adatok:
 
 Név: DLuckies
 
 Tag(ok) neve:
 -Németh Áron Imre (D1J5ZG)
 
-# Felhasznált szoftverek verziószámai
+## Felhasznált szoftverek verziószámai
 
 -OS: Ubuntu 22.04
 -Python: 3.8.15
